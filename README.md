@@ -1,11 +1,10 @@
-## Hello! 👋
 
+<img src="https://github.com/ManuelRicardes/Manuelricardes/blob/main/svg.svg" alt="hello world"/>
 
-
-[![Santiago Serena](https://media-exp1.licdn.com/dms/image/C4D16AQGWLVNRN4HX9w/profile-displaybackgroundimage-shrink_200_800/0/1606600269232?e=1658966400&v=beta&t=OyUDD14zyn8rPr7u92rJDdFJhy502U5smTj8oA8L3UY)](https://www.linkedin.com/in/santiagoserena/)
-
+## 👋 Hi! I'm Santiago Serena
 I am a full stack web developer graduated from Henry, an intensive bootcamp in Argentina.
-I am a very curious and I really enjoy teamwork too. I am attracted to new challenges and I have a lot of persistence and dedication to achieve my goals.
+Currently I am in a job search, with expectations of joining a team, where I could contribute and continue learning new skills and technologies.
+I am very curious and I really enjoy teamwork too. I am attracted to new challenges and I have a lot of persistence and dedication to achieve my goals.
 
 I have experience in JavaScripts, React, Redux, Node.js, Express, Sequelize, Postgres.js
 
