@@ -1,6 +1,8 @@
 ## Hello! 👋
 
-[![Santiago Serena](https://images.unsplash.com/photo-1589707461048-d377b516c5fb?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=768&fit=max&ixid=eyJhcHBfaWQiOjE0MzMyOH0)](https://www.linkedin.com/in/santiagoserena/)
+
+
+[![Santiago Serena](https://media-exp1.licdn.com/dms/image/C4D16AQGWLVNRN4HX9w/profile-displaybackgroundimage-shrink_200_800/0/1606600269232?e=1658966400&v=beta&t=OyUDD14zyn8rPr7u92rJDdFJhy502U5smTj8oA8L3UY)](https://www.linkedin.com/in/santiagoserena/)
 
 I am a full stack web developer graduated from Henry, an intensive bootcamp in Argentina.
 I am a very curious and I really enjoy teamwork too. I am attracted to new challenges and I have a lot of persistence and dedication to achieve my goals.
