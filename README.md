@@ -20,7 +20,7 @@ I have experience in JavaScripts, React, Redux, Node.js, Express, Sequelize, Pos
 
 ### E-mail:  santiserena@outlook.com.ar
 
-### Mobile / Whatsapp: +54 9 351 653-0653
+### Mobile / Whatsapp: +54 9 351 653-0653 
 
 
 
